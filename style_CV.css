@@ -1,0 +1,6 @@
+.color-rectangle {
+    background-color: #b6db85; /* Remplacez cette couleur par celle de votre choix */
+    padding: 5px;
+    color: rgb(0, 0, 0); /* Couleur du texte à l'intérieur du rectangle */
+    margin-bottom: 10px;
+}
